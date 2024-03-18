@@ -1,0 +1,29 @@
+{
+  "name": "soulful-hope",
+  "version": "1.0.0",
+  "description": "Soulful Insights is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ho0tnadawhy/soulful-hope"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "jessicamogel03-random-array": "1.1.4",
+    "stir-cognitive-kit": "1.0.0",
+    "random-fail": "1.0.0",
+    "bite-text-crypto": "1.0.0",
+    "need-uuid-utils": "1.0.0",
+    "stellar-wisdom-rise": "1.0.0",
+    "quantum-harmony-sack": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ho0tnadawhy/soulful-hope/issues"
+  },
+  "homepage": "https://github.com/ho0tnadawhy/soulful-hope#readme"
+}
